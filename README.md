@@ -1,6 +1,10 @@
-# Livro de receitas :man_cook:
+# Receitas :book:
 
-Olá ! Bem vindo ao meu livro de receitas :wave:
 
-* Strogonoff de frango
+
+Olá! Desfrute das receitas listadas abaixo :wave:
+
+- Bolo de cenoura
+
+
 
